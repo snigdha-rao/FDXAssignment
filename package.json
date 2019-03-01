@@ -1,0 +1,22 @@
+{
+  "name": "forum",
+  "version": "1.0.0",
+  "description": "forum for bucketlist",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "@angular/core": "^7.2.7",
+    "@angular/http": "^7.2.7",
+    "body-parser": "^1.18.3",
+    "cors": "~2.8.3",
+    "express": "^4.16.4",
+    "i": "^0.3.6",
+    "mongoose": "^5.4.16",
+    "rxjs": "^6.4.0",
+    "rxjs-compat": "^6.4.0"
+  },
+  "author": "snigdha rao",
+  "license": "ISC"
+}
